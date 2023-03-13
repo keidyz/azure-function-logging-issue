@@ -1,0 +1,14 @@
+{
+  "name": "azure-function-logging-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "func start --port 7071"
+  },
+  "author": "Keisha Zapra <kzapra@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/functions": "^3.5.0",
+    "azure-functions-core-tools": "^4.0.5030"
+  }
+}
