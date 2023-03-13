@@ -14,7 +14,7 @@ three
 ```
 
 
-To install package
+To install packages
 `npm i`
 
 To start
